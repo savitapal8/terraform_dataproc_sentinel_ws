@@ -1,2 +1,2 @@
-# terraform_dataproc_sentinel_ws
-terraform_dataproc_sentinel_ws
+# terraform_dataproc_sentinel
+terraform_dataproc_sentinel
