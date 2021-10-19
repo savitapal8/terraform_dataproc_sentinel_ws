@@ -1,0 +1,22 @@
+{
+	"records": [
+		{
+			"key": "appsec_gcp_serviceaccount_restriction",
+			"source": "./appsec_gcp_serviceaccount_restriction.sentinel",
+			"sourceSum": "",
+			"dest": "C:/Users/savitap/Projects/terraform_dataproc_sentinel_ws/gcp/appsec_gcp_serviceaccount_restriction.sentinel"
+		},
+		{
+			"key": "network_gcp_ip_restriction",
+			"source": "./network_gcp_ip_restriction.sentinel",
+			"sourceSum": "",
+			"dest": "C:/Users/savitap/Projects/terraform_dataproc_sentinel_ws/gcp/network_gcp_ip_restriction.sentinel"
+		},
+		{
+			"key": "network_gcp_ssl_enforce",
+			"source": "./network_gcp_ssl_enforce.sentinel",
+			"sourceSum": "",
+			"dest": "C:/Users/savitap/Projects/terraform_dataproc_sentinel_ws/gcp/network_gcp_ssl_enforce.sentinel"
+		}
+	]
+}
